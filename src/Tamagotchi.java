@@ -23,6 +23,6 @@ public class Tamagotchi {
 
     public  void getStats (int hunger, int boredom, boolean isAlive) {
 
-//Hi
+
     }
 }
