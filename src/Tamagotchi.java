@@ -20,9 +20,9 @@ public class Tamagotchi {
             isAlive = false;
         }
     }
-    
+
     public  void getStats (int hunger, int boredom, boolean isAlive) {
 
-
+//Hi
     }
 }
